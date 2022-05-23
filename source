@@ -21,7 +21,7 @@ function Notify(title, text, dur)
 	})
 end
 
-Notify("Fuecs X", "Loaded!, unnamed#4455")
+Notify("Fuecs X", "Loaded!, Fuecs#5043")
 
 assert(getrawmetatable)
 gmt = getrawmetatable(game)
